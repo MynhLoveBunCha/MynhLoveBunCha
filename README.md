@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MynhLoveBunCha
 - 👀 I love eating Bun Cha
-- 🌱 I’m currently learning Mechatronics
+- 🌱 I’m currently studying Mechatronics at Hanoi University of Science and Technology
 - 📫 How to reach me doannhatminh253@gmail.com
 
 <!---
