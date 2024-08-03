@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MynhLoveBunCha
 - 👀 I love eating Bun Cha
 - 🌱 I’m currently studying Mechatronics at Hanoi University of Science and Technology
-- ✨ I'm the First Class Honours of the class K64 (GPA: 3.91/4.00)
+- ✨ I'm the First Class Honours of the class of 2024 (GPA: 3.90/4.00)
 - 📫 How to reach me: doannhatminh253@gmail.com
 
 <!---
